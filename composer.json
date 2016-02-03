@@ -1,0 +1,12 @@
+{
+  "name": "pozitim/guzzle-soap",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Pozitim": "src/"
+    }
+  }
+}
